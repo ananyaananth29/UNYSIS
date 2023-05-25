@@ -1,0 +1,37 @@
+{
+  "name": "website-builder-3-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.4",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "grapesjs-blocks-bootstrap4": "^0.1.22",
+    "grapesjs-bootstrap4-blocks": "^0.2.17",
+    "grapesjs-indexeddb": "^1.0.4",
+    "grapesjs-navbar": "^1.0.1",
+    "grapesjs-plugin-forms": "^2.0.1",
+    "grapesjs-style-bg": "^1.0.5",
+    "grapesjs-tabs": "^1.0.6",
+    "grapesjs-template-manager": "^1.0.7",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.4.2",
+    "vue": "^3.2.45"
+  }
+}
