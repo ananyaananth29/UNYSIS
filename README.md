@@ -211,14 +211,6 @@ Access the app at:
 
 ---
 
-## 🧾 Reference
-
-Published at **IEEE IC3IT 2025**  
-> **“Development of No-Code Tool for Agile Website Development for Non-Coders”**  
-> DOI: *[IEEE Xplore link pending]*
-
----
-
 ## 📜 License
 
 This project is released under the **MIT License**.  
